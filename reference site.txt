@@ -1,3 +1,6 @@
 참고 사이트 : 
 https://dawitblog.tistory.com/50
 http://heyo.net/wp/67024
+
+[에러 : Cannot read property 'Geocoder' of undefined]
+해결 : https://m.blog.naver.com/mikong22/221798570191
